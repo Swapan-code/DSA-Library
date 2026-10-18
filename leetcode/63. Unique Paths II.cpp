@@ -1,4 +1,4 @@
-// Notes: https://app.notion.com/p/63-Unique-Paths-II-3fbdbda921558030a08dc16e78bb975d?source=copy_link
+// Notes: https://app.notion.com/p/63-Unique-Paths-II-3fbdbda921558030a08dc16e78bb975d
 
 // Approach 1: Tabulation DP (Time = O(M*N), Space = O(M*N))
 class Solution {
