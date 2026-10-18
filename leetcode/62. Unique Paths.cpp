@@ -1,3 +1,5 @@
+// Notes: https://app.notion.com/p/62-Unique-Paths-3fbdbda92155806cba6cd190ef507d78
+
 // Approach 1: Tabulation DP (Time = O(M*N), Space = O(M*N))
 class Solution {
 public:
